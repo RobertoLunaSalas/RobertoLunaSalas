@@ -9,7 +9,7 @@ Un poco sobre mi 🙋‍♂️:
 
 Algunos lenguajes que estoy aprendiendo:
 
-<img link=![image](https://github.com/RobertoLunaSalas/RobertoLunaSalas/assets/88508580/26a1210d-2fc1-4aef-8b47-58d2545e0d63) width="200" height="200">
+<img src="Imgs/JS.png" width="180" height="180"> <img src="Imgs/Flutter.jpg" width="180" height="180"> <img src="Imgs/C.png" width="180" height="180"> <img src="Imgs/Python.png" width="180" height="180"> <img src="Imgs/java.jpg" width="180" height="180"> <img src="Imgs/Csharp.png" width="180" height="180"> <img src="Imgs/Cplus.jpg" width="180" height="180"> 
 
 
 
