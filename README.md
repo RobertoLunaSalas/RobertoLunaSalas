@@ -1,16 +1,15 @@
-### Hi there 👋
+# Estudiante de Ingenieria en Tecnologia de Software💻📓
 
-<!--
-**RobertoLunaSalas/RobertoLunaSalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Un poco sobre mi 🙋‍♂️:
 
-Here are some ideas to get you started:
+- 🔭 Soy de Tampico Tamaulipas
+- 🌱 Me gusta salir a correr al menos 3 veces a la semana
+- 🧑‍💻 Soy estudiande de ingennieria en tecnologia de software en la UANL
+- 🤔 Actualmente trabajo en desarrollar mis habilidades de programacion y logica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Algunos lenguajes que estoy aprendiendo:
+
+<img link=![image](https://github.com/RobertoLunaSalas/RobertoLunaSalas/assets/88508580/26a1210d-2fc1-4aef-8b47-58d2545e0d63) width="200" height="200">
+
+
+
